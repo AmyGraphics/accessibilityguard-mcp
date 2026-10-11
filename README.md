@@ -41,3 +41,10 @@ Solana USDC:
 ## Report evidence
 
 Every finding includes URL, WCAG criterion, severity, evidence and whether manual keyboard, screen-reader or computed-contrast verification is still required. Automated screening is not legal certification.
+
+
+## Why this MCP is worth using
+
+Live page → URL-level WCAG criterion, severity, evidence, fix and manual-verification flag.
+
+This outcome is the product value; the tool count is only an implementation detail.
