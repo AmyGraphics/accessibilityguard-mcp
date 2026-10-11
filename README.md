@@ -36,3 +36,8 @@ Solana USDC:
 ```text
 8sDLX3okSV974wdjdeKhN9uWLZDr45DeGCJ28zgTLEdJ
 ```
+
+
+## Report evidence
+
+Every finding includes URL, WCAG criterion, severity, evidence and whether manual keyboard, screen-reader or computed-contrast verification is still required. Automated screening is not legal certification.
